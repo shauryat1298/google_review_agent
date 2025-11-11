@@ -1,0 +1,11 @@
+patient_id,first_name,last_name,phone_number,email,preferred_channel,last_visit_date,days_since_visit,has_reviewed,consent_to_contact,opt_out_status,review_link_sent,notes
+P001,Emma,Johnson,+15551234567,emma.j@example.com,SMS,2025-10-20,7,false,true,false,false,"Great experience with Dr. Lee"
+P002,James,Wilson,+15559876543,james.w@example.com,Call,2025-10-18,9,false,true,false,false,"Follow-up on knee surgery"
+P003,Sofia,Martinez,+15557788990,sofia.m@example.com,SMS,2025-10-25,2,false,true,false,false,"Pediatric visit - happy mom"
+P004,Robert,Chen,+15554433221,robert.c@example.com,Call,2025-10-15,12,false,true,false,false,"Dental cleaning"
+P005,Linda,Garcia,+15556677889,linda.g@example.com,SMS,2025-10-22,5,false,false,false,false,"No consent - do not contact"
+P006,Michael,Brown,+15553322110,michael.b@example.com,SMS,2025-10-10,17,true,true,false,true,"Already left 5-star review"
+P007,Aisha,Patel,+15551122334,aisha.p@example.com,Call,2025-10-23,4,false,true,false,false,"New patient - first visit"
+P008,David,Kim,+15559988776,david.k@example.com,SMS,2025-10-19,8,false,true,true,false,"Opted out via text reply 'STOP'"
+P009,Olivia,Thompson,+15552233445,olivia.t@example.com,SMS,2025-10-21,6,false,true,false,false,"Loves the new office"
+P010,Carlos,Rodriguez,+15558877665,carlos.r@example.com,Call,2025-10-17,10,false,true,false,false,"Physical therapy session"
